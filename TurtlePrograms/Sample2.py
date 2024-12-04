@@ -1,0 +1,6 @@
+print("Addition of two numbers:", 23+34)
+print("Subtraction of two numbers:", 143-76)
+print("Multiplication of two numbers:", 45*7)
+print("Division of two numbers:", 78/5)
+print("Remainder of two numbers:", 54%5)
+print("Truncate division of two numbers:", 98//6)

@@ -1,0 +1,38 @@
+LIST OF SPORTSPERSON WHO HAVE WON MEDALS
+======================
+NAME: Edgar Lindenau Aabye 
+EVENT: Tug-Of-War 
+MEDAL: Gold
+======================
+NAME: Arvo Ossian Aaltonen 
+EVENT: Swimming 
+MEDAL: Bronze
+======================
+NAME: Arvo Ossian Aaltonen 
+EVENT: Swimming 
+MEDAL: Bronze
+======================
+NAME: Juhamatti Tapio Aaltonen 
+EVENT: Ice Hockey 
+MEDAL: Bronze
+======================
+NAME: Paavo Johannes Aaltonen 
+EVENT: Gymnastics 
+MEDAL: Bronze
+======================
+NAME: Paavo Johannes Aaltonen 
+EVENT: Gymnastics 
+MEDAL: Gold
+======================
+NAME: Paavo Johannes Aaltonen 
+EVENT: Gymnastics 
+MEDAL: Gold
+======================
+NAME: Paavo Johannes Aaltonen 
+EVENT: Gymnastics 
+MEDAL: Gold
+======================
+NAME: Paavo Johannes Aaltonen 
+EVENT: Gymnastics 
+MEDAL: Bronze
+======================
